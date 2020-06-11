@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "084ac7b794330904cca2e22da9abad85",
+    "revision": "0b3d7935fcb7351fcf04fe5c48565f9b",
     "url": "/comunication-components-react/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/comunication-components-react/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "9ad450529dbcc9050d84",
-    "url": "/comunication-components-react/static/css/main.6a03133f.chunk.css"
+    "revision": "658791d9e70293074484",
+    "url": "/comunication-components-react/static/css/main.bc6223e0.chunk.css"
   },
   {
     "revision": "d71b669ff8ede3ba46ee",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/comunication-components-react/static/js/2.9678dada.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ad450529dbcc9050d84",
-    "url": "/comunication-components-react/static/js/main.d6e5ba96.chunk.js"
+    "revision": "658791d9e70293074484",
+    "url": "/comunication-components-react/static/js/main.d95c1c77.chunk.js"
   },
   {
     "revision": "d5398f5e333837646382",
