@@ -19,7 +19,7 @@ class Child extends Component {
   }
 }
 
-class ComunicationComponent extends Component {
+class ChildComponent extends Component {
   state = {  }
   child = React.createRef()
 
@@ -45,4 +45,4 @@ class ComunicationComponent extends Component {
   }
 }
 
-export default ComunicationComponent;
+export default ChildComponent;
