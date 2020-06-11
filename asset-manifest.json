@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/comunication-components-react/static/css/main.bc6223e0.chunk.css",
-    "main.js": "/comunication-components-react/static/js/main.d95c1c77.chunk.js",
-    "main.js.map": "/comunication-components-react/static/js/main.d95c1c77.chunk.js.map",
+    "main.js": "/comunication-components-react/static/js/main.1fdf8527.chunk.js",
+    "main.js.map": "/comunication-components-react/static/js/main.1fdf8527.chunk.js.map",
     "runtime-main.js": "/comunication-components-react/static/js/runtime-main.963fd1ee.js",
     "runtime-main.js.map": "/comunication-components-react/static/js/runtime-main.963fd1ee.js.map",
     "static/css/2.829c9cb5.chunk.css": "/comunication-components-react/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.9678dada.chunk.js": "/comunication-components-react/static/js/2.9678dada.chunk.js",
-    "static/js/2.9678dada.chunk.js.map": "/comunication-components-react/static/js/2.9678dada.chunk.js.map",
+    "static/js/2.389850ad.chunk.js": "/comunication-components-react/static/js/2.389850ad.chunk.js",
+    "static/js/2.389850ad.chunk.js.map": "/comunication-components-react/static/js/2.389850ad.chunk.js.map",
     "index.html": "/comunication-components-react/index.html",
-    "precache-manifest.51284e72fcc84da9090fc11c8ef6a2ab.js": "/comunication-components-react/precache-manifest.51284e72fcc84da9090fc11c8ef6a2ab.js",
+    "precache-manifest.1e05d273138f2a670123d55b5edc7fcf.js": "/comunication-components-react/precache-manifest.1e05d273138f2a670123d55b5edc7fcf.js",
     "service-worker.js": "/comunication-components-react/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/comunication-components-react/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.bc6223e0.chunk.css.map": "/comunication-components-react/static/css/main.bc6223e0.chunk.css.map",
-    "static/js/2.9678dada.chunk.js.LICENSE.txt": "/comunication-components-react/static/js/2.9678dada.chunk.js.LICENSE.txt",
+    "static/js/2.389850ad.chunk.js.LICENSE.txt": "/comunication-components-react/static/js/2.389850ad.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/comunication-components-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.963fd1ee.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.9678dada.chunk.js",
+    "static/js/2.389850ad.chunk.js",
     "static/css/main.bc6223e0.chunk.css",
-    "static/js/main.d95c1c77.chunk.js"
+    "static/js/main.1fdf8527.chunk.js"
   ]
 }
