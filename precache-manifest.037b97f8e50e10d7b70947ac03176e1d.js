@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "180fe64f796583f76aeb2b22eb6daf1c",
+    "revision": "a59bab1912c73182d617ab5cdd4f3997",
     "url": "/comunication-components-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/comunication-components-react/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "ac8088a80f91855d8e31",
+    "revision": "bc2dbe065b1c3c64dd29",
     "url": "/comunication-components-react/static/css/main.bc6223e0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/comunication-components-react/static/js/2.389850ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac8088a80f91855d8e31",
-    "url": "/comunication-components-react/static/js/main.1fdf8527.chunk.js"
+    "revision": "bc2dbe065b1c3c64dd29",
+    "url": "/comunication-components-react/static/js/main.79b068a9.chunk.js"
   },
   {
     "revision": "d5398f5e333837646382",
