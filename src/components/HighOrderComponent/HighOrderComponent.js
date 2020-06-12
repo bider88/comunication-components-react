@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
-const withCounter = (Comp) => {
+const withCounter = (Comp, config) => {
   return class extends Component {
     state = {
-      num: 0
+      num: config.initialValue
     }
 
     add = ()=> {
       this.setState(state => ({
-        num: state.num +1
+        num: state.num + config.sumClicks
       }))
     }
 
@@ -41,4 +41,7 @@ class HighOrderComponent extends Component {
   }
 }
 
-export default withCounter(HighOrderComponent);
+export default withCounter(HighOrderComponent, {
+  initialValue: 2,
+  sumClicks: 2
+});
