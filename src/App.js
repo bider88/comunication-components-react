@@ -7,6 +7,7 @@ import ChildComponent from './components/ChildComponent';
 import ParentComponent from './components/ParentComponent';
 import ObserverPattern from './components/ObserverPattern';
 import ApiContext from './components/ApiContext';
+import RenderProps from './components/RenderProps';
 
 function App() {
   return (
@@ -22,6 +23,8 @@ function App() {
         {/* Hay tres formas comunes o usadas que son: PubSubJS, EventEmitter o MicroEvent.js. Usaremos PubSubJS (cualquiera) */}
         <ApiContext/>
         {/* Usando React Context (Solo de React 16 en adelante) */}
+        <RenderProps/>
+        {/* Patrón Render Props (Hijo a padre)  */}
       </div>
     </div>
   );
