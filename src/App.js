@@ -8,6 +8,7 @@ import ParentComponent from './components/ParentComponent';
 import ObserverPattern from './components/ObserverPattern';
 import ApiContext from './components/ApiContext';
 import RenderProps from './components/RenderProps';
+import ResizeRenderProp from './components/ResizeRenderProp';
 
 function App() {
   return (
@@ -25,6 +26,8 @@ function App() {
         {/* Usando React Context (Solo de React 16 en adelante) */}
         <RenderProps/>
         {/* Patrón Render Props (Hijo a padre)  */}
+        <ResizeRenderProp/>
+        {/* Otro ejemplo de render props con resize (Hijo a padre)  */}
       </div>
     </div>
   );
