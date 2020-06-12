@@ -9,6 +9,7 @@ import ObserverPattern from './components/ObserverPattern';
 import ApiContext from './components/ApiContext';
 import RenderProps from './components/RenderProps';
 import ResizeRenderProp from './components/ResizeRenderProp';
+import HighOrderComponent from './components/HighOrderComponent';
 
 function App() {
   return (
@@ -28,6 +29,8 @@ function App() {
         {/* Patrón Render Props (Hijo a padre)  */}
         <ResizeRenderProp/>
         {/* Otro ejemplo de render props con resize (Hijo a padre)  */}
+        <HighOrderComponent/>
+        {/* Componentes de alto orden (HOC)  */}
       </div>
     </div>
   );
